@@ -80,13 +80,6 @@ void Snake::render(CRGB leds[], int headColor, int bodyColor) {
     //     if (it->equals(bodyPixels.front())) break;
     //     it++;
     // }
-
-    // 
-
-    std::list<Pixel>::iterator it2 = bodyPixels.begin();
-    it2++;
-
-    it2->render(leds, CRGB(0, 255, 0));
 };
 
 bool Snake::move(SnakeDirection direction, Border border, bool phasing, bool testing = false) {

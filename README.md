@@ -22,7 +22,20 @@ Last but not least, the logic of it all. I think I started coding with [Arduino 
 
 # Media
 As this project is kinda in real life, I have to show photos - not screenshots, and the only thing I have, that makes photos is my cheap phone. So yeah, quality of th... sorry, what quality?
-![]()
+
+A few shots of the game "screen":
+![Play button](https://i.imgur.com/QgU0B3D.jpeg)
+![Brightness setting](https://i.imgur.com/hvgoeTG.jpeg)
+![In-game shot](https://i.imgur.com/hZkCwbQ.jpeg)
+
+Screen all around:
+![](https://i.imgur.com/7yO09jy.jpeg)
+![](https://i.imgur.com/hrmFcPj.jpeg)
+Yeah, legs are different length, cause screw holes aren't perfect. That's how real DIY project looks like \*shrug\*
+![](https://i.imgur.com/P3PsCmM.jpeg)
+
+And a short demonstration video (click the thumbnail):<br />
+[![Demonstration video](https://img.youtube.com/vi/hBAqEBxcC9g/0.jpg)](https://www.youtube.com/watch?v=hBAqEBxcC9g)
 
 # License
 This project uses [MIT](https://github.com/Ynfuien/esp32-led-snake/master/blob/LICENSE) license.
